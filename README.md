@@ -24,6 +24,10 @@ Jupyter Notebook: To provide an interactive environment for the analysis.
 
 ## Insights and Outcomes
 Top-performing categories and sub-categories: The notebook reveals which product categories and sub-categories are driving the most revenue and profit.
-Regional Performance: Highlights the regions with the highest and lowest sales, enabling targeted business strategies.
+
+#### Regional Performance: 
+The sales data reveals that the **West** region leads with 3,203 sales, followed by the **East** with 2,848 sales. The **Central** region recorded 2,323 sales, while the **South** had the lowest with 1,620 sales.
+
 Customer Buying Patterns: Insights into customer behavior and preferences, leading to more effective customer relationship management.
+
 Profit Margins: Analysis of profit margins across different products, helping to identify opportunities to improve profitability.
